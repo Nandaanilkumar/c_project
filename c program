@@ -6,7 +6,7 @@ int main() {
     
     // reads and stores input
     scanf("%d", &number);
-ghkjgejkhjge
+
     // displays output
     printf("You entered: %d", number);
     
